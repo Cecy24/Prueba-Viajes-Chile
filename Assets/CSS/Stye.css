@@ -3,10 +3,15 @@
     --dark-success-2: #2ea6a6;
 }
 
-
+.Logo  {
+    width: 55px;
+}
+.carousel-item img {
+max-height: 100vh;
+}
 body {
     font-family: 'ABeeZee', sans-serif;
-    font-family: 'Open Sans', sans-serif;
+    color: white;
 }
 /** Classnames */
 
